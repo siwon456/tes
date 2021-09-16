@@ -1,6 +1,7 @@
-#incldue<Stdio.h>
+#include<stdio.h>
 int main()
 {
-	pritnf("Hello ward");
-	
+	printf("Hello wolrd\n");
+	printf("Hello wolrd\n");
+	printf("Hello wolrd\n");
 }
